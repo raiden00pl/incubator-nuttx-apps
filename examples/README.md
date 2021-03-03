@@ -361,6 +361,10 @@ Dependencies:
 - `CONFIG_BUILD_PROTECTED=n` and `CONFIG_BUILD_KERNEL=n` – This test uses
   internal OS interfaces and so is not available in the NUTTX kernel builds.
 
+## `foc` Open-loop FOC motor controller
+
+A simple open-loop FOC motor controller based on Nuttx FOC driver.
+
 ## `flowc` Serial Hardware Flow Control
 
 A simple test of serial hardware flow control.
